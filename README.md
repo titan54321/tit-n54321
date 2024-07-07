@@ -1,10 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-
-
 # Hi! 👋🏻 I'M JUAN LUIS 
 
 
 
+<!------------------------------------------------------>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
+
+<!------------------------------------------------------>
+
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋🏻;Welcome;I+am+Juan+Luis;Junior+Developer;I'm+from+Mexico)
+ 
 <!------------------------------------------------------>
 <h1 align="center">Github Metrics </h1><p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=titan54321&theme=github_dark" />
